@@ -1,5 +1,5 @@
 jax
 jaxlib
-pytype
+pytype>=2019.05.31
 pytest
 torch>=1.1
